@@ -1,2 +1,2 @@
-infectus: infectus.cpp
-	g++ -o infectus infectus.cpp -lSDL
+gamepad: gamepad.cpp
+	g++ -o gamepad gamepad.cpp -lSDL
